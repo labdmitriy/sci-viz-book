@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# Book
+pdf/

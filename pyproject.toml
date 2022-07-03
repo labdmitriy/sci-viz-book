@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "sci-viz-book"
+version = "0.1.0"
+description = ""
+authors = ["Dmitry Labazkin <labdmitriy@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+scipy = {version = "^1.8.1", python = ">=3.10,<3.11"}
+numpy = "^1.23.0"
+matplotlib = "^3.5.2"
+
+[tool.poetry.dev-dependencies]
+jupyterlab = "^3.4.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
