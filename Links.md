@@ -8,4 +8,5 @@
 - [Installing Adobe's Source Pro fonts in Ubuntu](https://gist.github.com/jacksonpradolima/840b4a20c617204a65b15da61e124bf6)
 - [Specifying and saving a figure with exact size in pixels](https://stackoverflow.com/a/13714720)
 - [Python Tip: Ready to Publish Matplotlib Figures](https://www.pythonforthelab.com/blog/python-tip-ready-publish-matplotlib-figures/)
-
+- [How to remove frame from matplotlib](https://stackoverflow.com/a/14913405)
+- [Matplotlib and Ipython-notebook: Displaying exactly the figure that will be saved](https://stackoverflow.com/a/37879281)
