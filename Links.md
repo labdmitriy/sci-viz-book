@@ -10,3 +10,5 @@
 - [Python Tip: Ready to Publish Matplotlib Figures](https://www.pythonforthelab.com/blog/python-tip-ready-publish-matplotlib-figures/)
 - [How to remove frame from matplotlib](https://stackoverflow.com/a/14913405)
 - [Matplotlib and Ipython-notebook: Displaying exactly the figure that will be saved](https://stackoverflow.com/a/37879281)
+- [Calculate screen DPI](https://stackoverflow.com/a/60747161)
+- [plt.rcParams vs mpl.rcParams](https://discourse.matplotlib.org/t/plt-rcparams-vs-mpl-rcparams/20808)
