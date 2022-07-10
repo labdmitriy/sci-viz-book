@@ -12,3 +12,6 @@
 - [Matplotlib and Ipython-notebook: Displaying exactly the figure that will be saved](https://stackoverflow.com/a/37879281)
 - [Calculate screen DPI](https://stackoverflow.com/a/60747161)
 - [plt.rcParams vs mpl.rcParams](https://discourse.matplotlib.org/t/plt-rcparams-vs-mpl-rcparams/20808)
+- [Row and column headers in matplotlib's subplots](https://stackoverflow.com/a/25814386)
+- [Matplotlib: convert colormap to pastel colors](https://stackoverflow.com/a/72289062)
+- [Drawing lines between two plots in Matplotlib](https://www.tutorialspoint.com/drawing-lines-between-two-plots-in-matplotlib)
