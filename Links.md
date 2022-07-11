@@ -15,3 +15,4 @@
 - [Row and column headers in matplotlib's subplots](https://stackoverflow.com/a/25814386)
 - [Matplotlib: convert colormap to pastel colors](https://stackoverflow.com/a/72289062)
 - [Drawing lines between two plots in Matplotlib](https://www.tutorialspoint.com/drawing-lines-between-two-plots-in-matplotlib)
+- [Meaning of top, ascent, baseline, descent, bottom, and leading in Android's FontMetrics](https://stackoverflow.com/a/27631737)
