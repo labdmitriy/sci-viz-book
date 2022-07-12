@@ -16,3 +16,8 @@
 - [Matplotlib: convert colormap to pastel colors](https://stackoverflow.com/a/72289062)
 - [Drawing lines between two plots in Matplotlib](https://www.tutorialspoint.com/drawing-lines-between-two-plots-in-matplotlib)
 - [Meaning of top, ascent, baseline, descent, bottom, and leading in Android's FontMetrics](https://stackoverflow.com/a/27631737)
+
+### Chapter 02 - Coordinate systems
+- [Transformations Tutoria](https://matplotlib.org/stable/tutorials/advanced/transforms_tutorial.html)
+- [How to plot data points outside the plot region using the matpotlib?](https://stackoverflow.com/a/44070623)
+- [X-ticks values consistent with bars](https://stackoverflow.com/a/67459266)
