@@ -21,3 +21,6 @@
 - [Transformations Tutoria](https://matplotlib.org/stable/tutorials/advanced/transforms_tutorial.html)
 - [How to plot data points outside the plot region using the matpotlib?](https://stackoverflow.com/a/44070623)
 - [X-ticks values consistent with bars](https://stackoverflow.com/a/67459266)
+- [origin and extent in imshow](https://matplotlib.org/stable/tutorials/intermediate/imshow_extent.html)
+- [Augmented matrix](https://en.wikipedia.org/wiki/Affine_transformation#Augmented_matrix)
+- [Affine transform of an image](https://matplotlib.org/stable/gallery/images_contours_and_fields/affine_image.html)
