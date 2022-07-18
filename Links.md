@@ -25,3 +25,5 @@
 - [Augmented matrix](https://en.wikipedia.org/wiki/Affine_transformation#Augmented_matrix)
 - [Affine transform of an image](https://matplotlib.org/stable/gallery/images_contours_and_fields/affine_image.html)
 - [Transformations (Articulated Robotics)](https://articulatedrobotics.xyz/transformations-1-coordinate_transforms)
+- [Rotated histogram](https://jehyunlee.github.io/2021/12/02/Python-DS-92-rougier01/)
+- [pyplot scatter plot marker size](https://stackoverflow.com/a/47403507)
