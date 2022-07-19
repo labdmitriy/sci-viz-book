@@ -27,3 +27,6 @@
 - [Transformations (Articulated Robotics)](https://articulatedrobotics.xyz/transformations-1-coordinate_transforms)
 - [Rotated histogram](https://jehyunlee.github.io/2021/12/02/Python-DS-92-rougier01/)
 - [pyplot scatter plot marker size](https://stackoverflow.com/a/47403507)
+
+### Chapter 03 - Scales & projections
+- [How do I install the Roboto font?](https://askubuntu.com/questions/1171447/how-do-i-install-the-roboto-font)
